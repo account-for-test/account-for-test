@@ -10,7 +10,7 @@ account-for-test/account-for-test is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-  <p align"center">Hi
+  <p align="center">Hi<br>
 <img src="https://github.com/account-for-test/account-for-test/blob/805eb993d1addb7b7912ad9d7e7bd2eacb5935a8/uploads/giphy.gif"
 </p>
   <h1 align="center">
